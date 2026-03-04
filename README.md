@@ -1,13 +1,13 @@
-IT Ops Portfolio — Samuel San Diego
+# 🖥️ IT Ops Portfolio — Samuel San Diego
 
 > Projects built to demonstrate skills in IT operational excellence, data analysis, and process documentation.
 > Designed with large-scale theme park & resort IT environments in mind.
 
 ---
 
-# Projects
+## 📁 Projects
 
-# 1. IT Operations KPI Dashboard
+### 1. IT Operations KPI Dashboard
 **`/dashboard/it-ops-dashboard.html`**
 
 An interactive dashboard that tracks real-time IT health metrics across a theme park environment — modeled after the kind of tooling used in large-scale IT operations centers.
@@ -22,7 +22,7 @@ An interactive dashboard that tracks real-time IT health metrics across a theme 
 
 ---
 
-# 2. Incident Root Cause Analysis — Python
+### 2. Incident Root Cause Analysis — Python
 **`/rca-analysis/incident_rca_analysis.py`**
 
 A Python script that analyzes IT incident logs to find recurring patterns and surface actionable insights — the core workflow of IT Operational Excellence teams.
@@ -38,7 +38,7 @@ A Python script that analyzes IT incident logs to find recurring patterns and su
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 | Tool | Used For |
 |------|----------|
@@ -49,10 +49,10 @@ A Python script that analyzes IT incident logs to find recurring patterns and su
 
 ---
 
-#About Me
+## 👤 About Me
 
 IT student at UCF pursuing a B.S. in Information Technology (GPA 3.6), with hands-on experience in operations and incident response from my role at Universal Studios Orlando. Passionate about using data to improve systems and processes.
 
- Orlando, FL
- [LinkedIn](https://www.linkedin.com/in/samuel-san-diego-016a111a8/)
- Samijamessd9@gmail.com
+📍 Orlando, FL
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-san-diego-016a111a8/)
+📧 Samijamessd9@gmail.com
